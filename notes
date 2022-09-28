@@ -1,0 +1,50 @@
+# TamaDoro notes #1
+
+device based on Arduino that can:
+
+1. show the time, date, temperature & humidity and has an alarm function
+
+2. Has a pomodoro function where you can set the 'pomodoro time', the pause time, a long pause time and after how many pomodoro cycles you can have a long break.
+when pomodoro on, there will be a red light on with a cable that can be mounted on desk or on monitor to indicate to your colleagues that you're busy, and equally a green one when you're on break.
+Gives a short audio sound when status changes as well as a small light.
+
+addons:
+ - The dates, times and durations of the pomodoro will be stored and can be exported at any time into a csv file.
+- Stats based on the hours can be shwon locally. 
+- The data can be automatically sent to a mail every month. 
+
+3. Has a Tamagochi function where the amount of time registered by the pomodoro gets converted into food that feeds the pet. 
+equally, the amount of breaks you take will affect the happiness of the pet. 
+
+At the end of the day, you need to put your pet to sleep. You can program when it will wake up and say hello to you. 
+
+addons:
+make a pokemon version (from wish.com)
+graphics
+after a while, pokemons evolve based on pomodoro scores. 
+
+you can have multiple pokemons 
+
+the original names of the pokemons will be altered by a smart anti-IP diffuser. 
+
+
+Hardware:
+
+Arduino UNO
+expansion board
+resistors??
+
+Clock thingy
+4 x buttons
+display
+cables
+temperature & humidity sensor
+extra memory
+wifi ??
+speaker 
+on/off button
+3 x lights 
+
+
+Info:
+the 4 buttons will be used for up, down, enter and back 
