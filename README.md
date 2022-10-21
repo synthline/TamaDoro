@@ -10,6 +10,7 @@ Hardware currently in use:
 - Minimal Buzzer
 - 10k Potentiometer
 - DHT 11
+- PIR sensor - 120° 7m - 3,6-20Vdc (HC-SR501)
 
 Product Evolution:
 v1.0 - Simple LCD Alarm Clock
