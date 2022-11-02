@@ -1,4 +1,4 @@
-# TamaDoro
+# TamaDoro - in progress
 An Arduino project combining the features of a Tamagochi and a Pomodoro Timer.
 Hardware currently in use:
 - Arduino UNO
